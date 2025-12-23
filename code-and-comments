@@ -1,0 +1,16 @@
+#Old Faithful Eruptions: Linear Regression Mini Project
+
+In this mini project, I look at the relationship between eruption duration and the waiting time until the next eruption.
+I use plots, correlation, and a simple regression line to make a couple predictions and check residuals.
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import warnings
+
+warnings.simplefilter("ignore")
+##1) Load the data
+I’m using the Old Faithful dataset with two columns:
+- `duration` = eruption duration (minutes)
+- `wait` = waiting time until the next eruption (minutes)
+
