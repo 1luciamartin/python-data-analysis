@@ -2,7 +2,7 @@
 This is a small data analysis project where I look at the relationship between
 eruption duration and waiting time in the Old Faithful geyser dataset. The goal
 is to see whether a linear model is reasonable and how well it describes the
-pattern we see in the data.
+pattern we see in the data. (This project was created for learning and practice purposes.)
 
 ## What I did
 In this notebook I:
